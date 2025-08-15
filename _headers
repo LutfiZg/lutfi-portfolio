@@ -1,0 +1,10 @@
+/*
+  # Security and caching headers for Netlify
+  # See https://docs.netlify.com/routing/headers/ for syntax.
+
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  # Content Security Policy: adjust domains as needed for your external resources
+  Content-Security-Policy: default-src 'self'; img-src 'self' data: https://lutfighifarihibban.netlify.app; script-src 'self' https://cdn.tailwindcss.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.tailwindcss.com; frame-ancestors 'none'
