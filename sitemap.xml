@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sitemap automatically generated for Lutfi Ghifari Hibban's portfolio -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://lutfighifarihibban.netlify.app/</loc>
+    <!-- Set lastmod to today's date in ISO format. Update this when content changes. -->
+    <lastmod>2025-08-15</lastmod>
+    <!-- Tell crawlers how frequently this page is likely to change. Adjust as needed. -->
+    <changefreq>monthly</changefreq>
+    <!-- Highest priority for the home page. Range 0.0–1.0. -->
+    <priority>1.0</priority>
+  </url>
+</urlset>
