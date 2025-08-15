@@ -1,0 +1,8 @@
+# Robots.txt for Lutfi Ghifari Hibban's portfolio
+# See https://developers.google.com/search/docs/crawling-indexing/robots/intro for guidelines.
+
+User-agent: *
+Allow: /
+
+# Point crawlers to the XML sitemap. Update the URL if you move to a custom domain.
+Sitemap: https://lutfighifarihibban.netlify.app/sitemap.xml
